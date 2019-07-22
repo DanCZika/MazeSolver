@@ -1,0 +1,12 @@
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\bin\Debug\labirintusHázi.exe.config
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\bin\Debug\labirintusHázi.exe
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\bin\Debug\labirintusHázi.pdb
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.csprojResolveAssemblyReference.cache
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.Form1.resources
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.Properties.Resources.resources
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.csproj.GenerateResource.Cache
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.exe
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.pdb
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\MI-2014\labirintusHázi\labirintusHázi\bin\Debug\labirintusHázi.exe.config
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\MI-2014\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.exe
+C:\Users\RaZoR\Documents\Visual Studio 2012\Projects\MI-2014\labirintusHázi\labirintusHázi\obj\Debug\labirintusHázi.pdb
